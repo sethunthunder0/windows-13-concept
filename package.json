@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "easy-json-database": "^1.5.0",
+    "events": "^3.3.0",
+    "fs": "^0.0.1-security",
+    "process": "^0.11.10"
+  }
+}
